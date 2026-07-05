@@ -2,4 +2,4 @@
 
 ## Project Screenshot
 
-![Project Screenshot](Screenshot 2026-07-05 170858.png)
+![Project Screenshot](Screenshot2026-07-05170858.png)
